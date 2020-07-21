@@ -19,5 +19,4 @@ def join_nested_strings(src)
   new_array = new_array.flatten
   new_array = new_array.join
   new_array
-
 end
